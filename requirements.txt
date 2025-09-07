@@ -1,9 +1,5 @@
-pillow
-requests
-jupyter
+streamlit==1.29.0
+ultralytics==8.2.0
+torch
+opencv-python-headless
 numpy
-pandas
-matplotlib
-seaborn
-graphviz
-Cython
