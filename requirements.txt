@@ -3,5 +3,7 @@ ultralytics==8.2.0
 torch
 opencv-python-headless
 numpy
+pandas
+matplotlib
 pillow
 requests
