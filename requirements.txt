@@ -1,7 +1,7 @@
 streamlit==1.29.0
-torch        
-ultralytics==8.2.0   
-opencv-python-headless   
+ultralytics==8.2.0
+torch
+opencv-python-headless
 numpy
-pandas
-matplotlib
+pillow
+requests
